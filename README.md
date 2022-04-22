@@ -15,14 +15,21 @@
 
 * 💻 I'm a full stack app developer
 * 🎨 I'm a self-taught unity game developer
-* 📱 I make apps for Android and iOS
-* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
+* 📱 I make apps and games for Android and iOS
 * 📺 I make educational games for schools [Atomic Boy](https://app.legendsoflearning.com/join/YXNzaWdubWVudC0xNTY4MDky?type=game)
 
-<p align="left">
-  <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
-<!--     <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a> -->
-</p>
+## 🔥 My Portfolio
+Ride Booking Platform
+[Dashboard](https://ionic4-taxi-f1bdf.web.app/)
+Educational Game
+[Atomic Boy](https://app.legendsoflearning.com/join/YXNzaWdubWVudC0xNTY4MDky?type=game)
+Educational Game
+[Island Ghost](https://app.legendsoflearning.com/join/YXNzaWdubWVudC0xNTY4MDky?type=game)
+Delivery Website
+[Logistics Website](https://movelogisticscourier.com/)
+
+And Many More, Check out My repo.
+
 
 ## 🔥 My contribution streak
 
