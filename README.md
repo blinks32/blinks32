@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/7928001/164720300-be54b8e2-6e5a-4180-baeb-550977a8ecf3.png" height="10px"/></a>
+<p align="center"><img width="35%"  src="https://user-images.githubusercontent.com/7928001/164720300-be54b8e2-6e5a-4180-baeb-550977a8ecf3.png" height="35%"/></p>
 
 <h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Chinedu</a> - aka PlayStudio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
@@ -29,46 +29,6 @@
 </p>
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/blinks32?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
-
-## 📘 My top open source projects
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/blinks32/Taxi-booking-and-delivery-clone-with-Admin"><b>LaTeX-Gboard-Dictionary</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/blinks32/Taxi-booking-and-delivery-clone-with-Admin?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/blinks32/Taxi-booking-and-delivery-clone-with-Admin?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/https://github.com/blinks32/Ionic-food-delivery-app-with-admin"><b>GitHub Readme Streak Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/blinks32/Ionic-food-delivery-app-with-admin?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/blinks32/Ionic-food-delivery-app-with-admin?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-<!--      <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/unicode-formatter"><b>Unicode Formatter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-    </tr> -->
-  </tbody>
-</table>
 
 
 <p align="left">
