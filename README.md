@@ -6,6 +6,7 @@
   <a href="https://github.com/blinks32"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/blinks32?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
     <a href="https://www.linkedin.com/in/chinedu-etoamaihe-a041a6105/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://docs.google.com/document/d/10Gjm8zHpT3zV3AYQtBEDFVwgF7HXqItg2GNQWUkymB8/edit?usp=sharing"><img alt="LinkedIn" title="Resume" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+   <a href="mailto:playstudio86@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 </p>
 
 ## 📖 About me
