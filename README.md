@@ -9,7 +9,7 @@
 <!--    <a href="mailto:playstudio86@gmail.com?subject=I'm%20an%20ionic%20developer%20with%205%20years%20experience.&body=Adsdffdfdfd"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> -->
 </p>
 
-[Check Out My Resume](https://docs.google.com/document/d/10Gjm8zHpT3zV3AYQtBEDFVwgF7HXqItg2GNQWUkymB8/edit?usp=sharing)
+## [Check Out My Resume](https://docs.google.com/document/d/10Gjm8zHpT3zV3AYQtBEDFVwgF7HXqItg2GNQWUkymB8/edit?usp=sharing)
 
 ## 📖 About me
 
@@ -19,13 +19,14 @@
 * 📺 I make educational games for schools [Atomic Boy](https://app.legendsoflearning.com/join/YXNzaWdubWVudC0xNTY4MDky?type=game)
 
 ## 🔥 My Portfolio
-Ride Booking Platform
+
+* Ride Booking Platform
 [Dashboard](https://ionic4-taxi-f1bdf.web.app/)
-Educational Game
+* Educational Game
 [Atomic Boy](https://app.legendsoflearning.com/join/YXNzaWdubWVudC0xNTY4MDky?type=game)
-Educational Game
+* Educational Game
 [Island Ghost](https://app.legendsoflearning.com/join/YXNzaWdubWVudC0xNTY4MDky?type=game)
-Delivery Website
+* Delivery Website
 [Logistics Website](https://movelogisticscourier.com/)
 
 And Many More, Check out My repo.
