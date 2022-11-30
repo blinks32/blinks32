@@ -1,6 +1,6 @@
 <p align="center"><img width="25%"  src="https://user-images.githubusercontent.com/7928001/188270861-73e3b007-50ed-436b-89e6-cd09aeec7469.png" height="25%"/></p>
 
-<h3 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/chinedu-etoamaihe-a041a6105/">Chinedu</a> - aka PlayStudio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/chinedu-etoamaihe-a041a6105/">Chinedu</a> - aka Naeto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
   <a href="https://github.com/blinks32"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/blinks32?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
