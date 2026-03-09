@@ -17,7 +17,7 @@
 * 🎨 I'm a self-taught unity game developer
 * 📱 I make apps and games for Android and iOS
 * 📺 I made a pvp mutiplayer game, similar to clash royale and a complete super app [Beast Forge](https://playgama.com/game/strike-squad)
-and a complete super app, with ride share, delivery, parcel etc [Dashboard](https://playgama.com/game/strike-squad)
+and a complete super app, with ride share, delivery, parcel etc [Dashboard](https://admin-mono-two.vercel.app/)
 ## 🔥 My Portfolio
 
 * Super App
