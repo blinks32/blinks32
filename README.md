@@ -9,7 +9,7 @@
 <!--    <a href="mailto:playstudio86@gmail.com?subject=I'm%20an%20ionic%20developer%20with%205%20years%20experience.&body=Adsdffdfdfd"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> -->
 </p>
 
-## [Check Out My Resume](https://docs.google.com/document/d/10Gjm8zHpT3zV3AYQtBEDFVwgF7HXqItg2GNQWUkymB8/edit?usp=sharing)
+## [Check Out My Resume](https://docs.google.com/document/d/1Bxy9PcNnB4t26UJrVMGRnUJEbx_vo7vEIhIwyYTDgSQ/edit?usp=sharing)
 
 ## 📖 About me
 
