@@ -16,7 +16,7 @@
 * 💻 I'm a full stack app developer
 * 🎨 I'm a full stack unity game developer
 * 📱 I make apps and games for Android and iOS and Web
-* 📺 I made a pvp mutiplayer game, similar to clash royale and a complete super app [Beast Forge](https://playgama.com/game/strike-squad)
+* 📺 I made a pvp mutiplayer game, similar to clash royale [Beast Forge](https://playgama.com/game/strike-squad)
 and a complete super app, with ride share, delivery, parcel etc [Dashboard](https://admin-mono-two.vercel.app/)
 Built Mutiple Educational Games for Legends of Learning.
 ## 🔥 My Portfolio
