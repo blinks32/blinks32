@@ -14,11 +14,23 @@
 ## 📖 About me
 
 * 💻 I'm a full stack app developer
-* 🎨 I'm a self-taught unity game developer
-* 📱 I make apps and games for Android and iOS
+* 🎨 I'm a full stack unity game developer
+* 📱 I make apps and games for Android and iOS and Web
 * 📺 I made a pvp mutiplayer game, similar to clash royale and a complete super app [Beast Forge](https://playgama.com/game/strike-squad)
 and a complete super app, with ride share, delivery, parcel etc [Dashboard](https://admin-mono-two.vercel.app/)
+Built Mutiple Educational Games for Legends of Learning.
 ## 🔥 My Portfolio
+
+## A few of my Educational Games
+
+* Escape
+[Escape](https://blinks32.itch.io/escape)
+* Astro
+[ASTRO](https://blinks32.itch.io/Astro)
+* Rounding With Tom
+[RounDing With Tom](https://blinks32.itch.io/rounding-with-tom)
+
+## 5 in 1 super app, built with typescript
 
 * Super App
 [Dashboard](https://admin-mono-two.vercel.app/)
